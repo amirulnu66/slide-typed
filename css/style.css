@@ -1,0 +1,25 @@
+body{
+	margin: 0 auto;
+	background: #f4f4f4;
+}
+.row{
+	margin: 0;
+	padding: 0;
+}
+.carousel-caption h1,h3{
+	color: #fff;
+}
+.carousel-caption{
+	top: 40%;
+}
+.carousel-caption h1:first-child{
+	animation-delay: 1s;
+
+}
+.carousel-caption h3{
+	animation-delay: 2s;
+}
+.typed-cursor{
+	display: none ;
+}
+
